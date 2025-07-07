@@ -1,1 +1,2 @@
-This project is a lightweight Flask application that allows users to upload a PDF document and ask natural language questions about its content. The backend extracts text from the PDF using PyMuPDF and uses a Hugging Face Question Answering model (deepset/roberta-base-squad2) to return relevant answers from the document. Ideal for automating information retrieval from reports, research papers, contracts, and more.
+A lightweight Flask-based application that lets you upload a PDF and ask natural language questions about its contents powered by Retrieval-Augmented Generation (RAG), this app extracts relevant chunks from the document using vector search and answers questions using a Hugging Face QA model.
+
