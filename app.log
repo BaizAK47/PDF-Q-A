@@ -1,0 +1,97 @@
+2025-07-07 16:23:44,189 | INFO | Loading faiss with AVX2 support.
+2025-07-07 16:23:44,232 | INFO | Successfully loaded faiss with AVX2 support.
+2025-07-07 16:23:44,242 | INFO | Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-07 16:23:53,016 | INFO | Use pytorch device_name: cpu
+2025-07-07 16:23:53,017 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-07 16:24:01,575 | WARNING |  * Debugger is active!
+2025-07-07 16:24:01,578 | INFO |  * Debugger PIN: 124-495-857
+2025-07-07 16:24:03,450 | INFO |  * Detected change in 'C:\\Users\\Baiz\\Desktop\\TCS\\PDF Q&A\\model_utils.py', reloading
+2025-07-07 16:24:05,518 | INFO | Loading faiss with AVX2 support.
+2025-07-07 16:24:05,568 | INFO | Successfully loaded faiss with AVX2 support.
+2025-07-07 16:24:05,577 | INFO | Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-07 16:24:06,180 | INFO | Loading faiss with AVX2 support.
+2025-07-07 16:24:06,208 | INFO | Successfully loaded faiss with AVX2 support.
+2025-07-07 16:24:06,219 | INFO | Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-07 16:24:14,409 | INFO | Use pytorch device_name: cpu
+2025-07-07 16:24:14,410 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-07 16:24:22,623 | WARNING |  * Debugger is active!
+2025-07-07 16:24:22,626 | INFO |  * Debugger PIN: 124-495-857
+2025-07-07 16:24:49,833 | INFO |  * Detected change in 'C:\\Users\\Baiz\\Desktop\\TCS\\PDF Q&A\\app.py', reloading
+2025-07-07 16:24:51,688 | INFO | Loading faiss with AVX2 support.
+2025-07-07 16:24:51,721 | INFO | Successfully loaded faiss with AVX2 support.
+2025-07-07 16:24:51,731 | INFO | Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-07 16:25:01,074 | INFO | Use pytorch device_name: cpu
+2025-07-07 16:25:01,074 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-07 16:25:06,738 | WARNING |  * Debugger is active!
+2025-07-07 16:25:06,740 | INFO |  * Debugger PIN: 124-495-857
+2025-07-07 16:25:16,657 | INFO |  * Detected change in 'C:\\Users\\Baiz\\Desktop\\TCS\\PDF Q&A\\app.py', reloading
+2025-07-07 16:25:19,078 | INFO | Loading faiss with AVX2 support.
+2025-07-07 16:25:19,112 | INFO | Successfully loaded faiss with AVX2 support.
+2025-07-07 16:25:19,119 | INFO | Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-07 16:25:27,868 | INFO | Use pytorch device_name: cpu
+2025-07-07 16:25:27,869 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-07 16:25:33,175 | WARNING |  * Debugger is active!
+2025-07-07 16:25:33,178 | INFO |  * Debugger PIN: 124-495-857
+2025-07-07 16:26:40,294 | INFO |  * Detected change in 'C:\\Users\\Baiz\\Desktop\\TCS\\PDF Q&A\\app.py', reloading
+2025-07-07 16:26:42,439 | INFO | Loading faiss with AVX2 support.
+2025-07-07 16:26:42,474 | INFO | Successfully loaded faiss with AVX2 support.
+2025-07-07 16:26:42,484 | INFO | Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-07 16:26:51,006 | INFO | Use pytorch device_name: cpu
+2025-07-07 16:26:51,006 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-07 16:26:51,333 | INFO | Loading faiss with AVX2 support.
+2025-07-07 16:26:51,359 | INFO | Successfully loaded faiss with AVX2 support.
+2025-07-07 16:26:51,372 | INFO | Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-07 16:26:56,332 | WARNING |  * Debugger is active!
+2025-07-07 16:26:56,334 | INFO |  * Debugger PIN: 124-495-857
+2025-07-07 16:26:58,444 | INFO | Use pytorch device_name: cpu
+2025-07-07 16:26:58,445 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-07 16:27:03,551 | INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-07 16:27:03,552 | INFO | [33mPress CTRL+C to quit[0m
+2025-07-07 16:27:03,554 | INFO |  * Restarting with stat
+2025-07-07 16:27:04,250 | INFO | Loading faiss with AVX2 support.
+2025-07-07 16:27:04,281 | INFO | Successfully loaded faiss with AVX2 support.
+2025-07-07 16:27:04,297 | INFO | Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-07 16:27:11,646 | INFO | Use pytorch device_name: cpu
+2025-07-07 16:27:11,647 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-07 16:27:18,971 | WARNING |  * Debugger is active!
+2025-07-07 16:27:18,973 | INFO |  * Debugger PIN: 124-495-857
+2025-07-07 16:27:38,732 | INFO | 127.0.0.1 - - [07/Jul/2025 16:27:38] "GET / HTTP/1.1" 200 -
+2025-07-07 16:27:54,199 | INFO | Received question: 'what is this pdf about?' with PDF: Analysis_and_Prediction_of_Football_Statistics_usi.pdf
+2025-07-07 16:27:54,199 | INFO | QUESTION: what is this pdf about?
+2025-07-07 16:27:54,199 | INFO | Extracting text from: temp\Analysis_and_Prediction_of_Football_Statistics_usi.pdf
+2025-07-07 16:27:54,350 | INFO | Total text length: 16550 characters
+2025-07-07 16:27:54,350 | INFO | Splitting text into chunks...
+2025-07-07 16:27:54,351 | INFO | Created 41 chunks
+2025-07-07 16:27:54,351 | INFO | Embedding chunks...
+2025-07-07 16:27:55,402 | INFO | FAISS index built with dimension: 384
+2025-07-07 16:27:55,402 | INFO | Retrieving top 3 chunks for query: 'what is this pdf about?'
+2025-07-07 16:27:55,421 | INFO | Chunk 1: start of the Premier League era, it seemed exciting to allow 
+the use of Data Mining techniques to f...
+2025-07-07 16:27:55,421 | INFO | Chunk 2: life. Users can each make one prediction, before 1 hour of the 
+actual kick-off time. Based on our o...
+2025-07-07 16:27:55,421 | INFO | Chunk 3: exhaustive dataset of all football statistics from 1992 i.e. the 
+start of the Premier League era, i...
+2025-07-07 16:27:57,425 | INFO | ANSWER: exhaustive dataset of all football statistics
+2025-07-07 16:27:57,426 | INFO | Deleted temp file: temp\Analysis_and_Prediction_of_Football_Statistics_usi.pdf
+2025-07-07 16:27:57,427 | INFO | 127.0.0.1 - - [07/Jul/2025 16:27:57] "POST /ask HTTP/1.1" 200 -
+2025-07-07 16:28:10,887 | INFO | Received question: 'what is the proposed method in this' with PDF: Analysis_and_Prediction_of_Football_Statistics_usi.pdf
+2025-07-07 16:28:10,887 | INFO | QUESTION: what is the proposed method in this
+2025-07-07 16:28:10,887 | INFO | Extracting text from: temp\Analysis_and_Prediction_of_Football_Statistics_usi.pdf
+2025-07-07 16:28:10,925 | INFO | Total text length: 16550 characters
+2025-07-07 16:28:10,925 | INFO | Splitting text into chunks...
+2025-07-07 16:28:10,926 | INFO | Created 41 chunks
+2025-07-07 16:28:10,926 | INFO | Embedding chunks...
+2025-07-07 16:28:11,709 | INFO | FAISS index built with dimension: 384
+2025-07-07 16:28:11,709 | INFO | Retrieving top 3 chunks for query: 'what is the proposed method in this'
+2025-07-07 16:28:11,720 | INFO | Chunk 1: this approach will give a higher prediction rate than the three 
+outcomes approach.  
+Several soft c...
+2025-07-07 16:28:11,720 | INFO | Chunk 2: important outcome. Hence, the best algorithm in the three 
+outcome scenario i.e. Genetic Programming...
+2025-07-07 16:28:11,720 | INFO | Chunk 3: will have when all the parameters in the algorithm are 
+considered and equated.  
+While looking to m...
+2025-07-07 16:28:12,143 | INFO | ANSWER: Genetic Programming
+2025-07-07 16:28:12,145 | INFO | Deleted temp file: temp\Analysis_and_Prediction_of_Football_Statistics_usi.pdf
+2025-07-07 16:28:12,145 | INFO | 127.0.0.1 - - [07/Jul/2025 16:28:12] "POST /ask HTTP/1.1" 200 -

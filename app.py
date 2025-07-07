@@ -1,6 +1,7 @@
 from flask import Flask, request, jsonify, render_template
 from model_utils import answer_question_from_pdf
 import os
+from logger import logger
 
 app = Flask(__name__)
 
@@ -19,14 +20,18 @@ def ask_question():
     pdf_path = os.path.join("temp", pdf.filename)
     os.makedirs("temp", exist_ok=True)
     pdf.save(pdf_path)
+    logger.info(f"Received question: '{question}' with PDF: {pdf.filename}")
 
     try:
         answer = answer_question_from_pdf(pdf_path, question)
         return jsonify({"question": question, "answer": answer})
     except Exception as e:
+        logger.exception("Error during question answering")
         return jsonify({"error": str(e)}), 500
     finally:
-        os.remove(pdf_path)
+        if os.path.exists(pdf_path):
+            os.remove(pdf_path)
+            logger.info(f"Deleted temp file: {pdf_path}")
 
 if __name__ == '__main__':
     app.run(debug=True)
